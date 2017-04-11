@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: green;
+  text-align: center;
+}
+
+#btn-inde {
+  background-color: #4CAF50;
+}
+
+#btn-abou {
+  background-color: #f4e542;
+}
+
+#btn-cont {
+  background-color: #41a6f4;
+}
+
+#btn-news {
+  background-color: ;
+}
+
+#btn-nume {
+  background-color:
+#f48342;
+}
+
+.button {
+  height: 25px;
+  width: 125px;
+}
+
+#intro {
+  font-size: 25px;
+  color: yellow;
+  text-align: center;
+}
+
+#start {
+  text-align: center;
+  color: white;
+}
